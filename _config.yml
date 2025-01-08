@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Max T. Smith"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Max Smith"
+description              : &description ""
 url                      : https://max-t-smith.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "max-t-smith/max-t-smith.github.io"
@@ -21,10 +21,10 @@ repository               : "max-t-smith/max-t-smith.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpg"
+  avatar           : "pfp.jpg"
   name             : "Max Tuerkeimer Smith"
   pronouns         : # example: "she/her"  
-  bio              : "CS and Math student at Northwestern interested in ML and systems-level work. Lover of the outdoors. History and urban/transporation planning enthusiast."
+  bio              : "CS and Math student at Northwestern interested in ML and systems-level work. Lover of the outdoors. Jazz enjoyer. History, travel, transporation, and urban planning enthusiast."
   location         : "Chicago"
   employer         : "Northwestern University"
   uri              : # URL
