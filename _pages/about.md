@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my page! I try to keep everything as current as possible, but if you have any questions, please do not hesitate to reach out! My email is <a href=mailto:maxsmith@u.northwestern.edu>maxsmith@u.northwestern.edu</a>
+Thanks for visiting my page! I try to keep everything as current as possible, but if you have any questions, please do not hesitate to reach out! My email is [maxsmith@u.northwestern.edu](mailto:maxsmith@u.northwestern.edu)
 
-Cheers, 
+
+Cheers,\ 
 Max
