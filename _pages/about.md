@@ -10,5 +10,5 @@ redirect_from:
 Thanks for visiting my page! I try to keep everything as current as possible, but if you have any questions, please do not hesitate to reach out! My email is [maxsmith@u.northwestern.edu](mailto:maxsmith@u.northwestern.edu)
 
 
-Cheers,\ 
+Cheers,{space}{space}
 Max
